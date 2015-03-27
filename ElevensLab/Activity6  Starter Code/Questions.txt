@@ -1,0 +1,6 @@
+1. 5 and 6 only
+
+2. It is possible because cards are removed in pairs, except for Jack, Queen
+and King, so the only way for that to possibly happen would be if they were J, Q, K
+
+3. It is pretty much all luck, removing one pair is no different that another
